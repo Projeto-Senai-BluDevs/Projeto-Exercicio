@@ -1,0 +1,9 @@
+nome:Gabriel Felipe Rossini
+
+idade:17
+
+série:Flash
+
+filme:Eu sou a lenda 
+
+livro favoritos: the Witcher
